@@ -1,0 +1,1 @@
+Git repo for Trygve Aamodt. Mostly related to NTNU and specifically master thesis. 
