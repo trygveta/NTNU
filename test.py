@@ -1,1 +1,1 @@
-import mathimport randomprint('Hello world')for i in range(10):    print(random.randint(0, 100))
+import mathimport randomfor i in range(10):    print(random.randint(0, 100))
