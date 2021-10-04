@@ -1,1 +1,1 @@
-import mathimport randomfor i in range(10):    print(random.randint(0, 100))
+import randomadjectives = ['smart', 'dum', 'kul', 'tøff', 'teit', 'rar']    def trygveEr():    for i in range(10):        print('Trygve er ', adjectives[random.randint(0, len(adjectives)-1)])        trygveEr()
