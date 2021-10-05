@@ -1,0 +1,1 @@
+Place to try out ML. Will likely consist of tutorials i follow, maybe some projects of my own eventually. 
