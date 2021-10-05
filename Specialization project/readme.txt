@@ -1,0 +1,1 @@
+Cleandata.py was the file I used to clean and work with sensor data in my specialization project. 
